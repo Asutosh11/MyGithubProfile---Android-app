@@ -1,3 +1,11 @@
+This android app fetches my github profile using Android WebView. 
+
+<br>
+<b>This app uses</b>
+<br>
+1. Android WebView
+<br><br>
+
 <b>Screenshots</b>
 
 1. <br>
